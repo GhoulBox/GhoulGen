@@ -9,7 +9,7 @@ if (Directory.Exists(fortnite))
   }
   ```
  
- It also strings the username and the fortnite directory, aswell as the amount of vbucks he wants. This is just to make it more realistic.
+It also strings the username and the fortnite directory, aswell as the amount of vbucks he wants. This is just to make it more realistic.
  ```csharp
 string userName = username.Text;
 string fortnite = textBox1.Text;
@@ -49,3 +49,7 @@ private void rgb()
             }
         }
 ```
+
+I even took the time and bothered to add a whole loading screen. Once again, literal useless. Just to make it look more realistic.
+
+![](https://images-ext-1.discordapp.net/external/l2Mqf90-YSlKX8Yq4qWeZYLH3d9Em_mTXD6jJ0sIg-k/https/cdn.upload.systems/uploads/v0pJosbk.png)
