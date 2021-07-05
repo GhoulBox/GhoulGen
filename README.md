@@ -1,8 +1,8 @@
 ## GhoulGen C# Tutorial
 
 What you need:
-Visual Studio
-Know how to compile a program.
+Visual Studio, 
+Know how to compile a program, 
 A friend.
 
 This is a simple program in C#. This is literally all it takes to waste 10 minutes of your friends precious lifetime.
